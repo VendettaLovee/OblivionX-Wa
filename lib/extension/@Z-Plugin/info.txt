@@ -1,0 +1,5 @@
+>> zuu-Plugin : popp@V1.0.0
+ 
+ * Recode ESM => CJS
+ * Extension Number: #1
+ * Description: Hanya sebuat extensi untuk bot oblivionx md, tolong jangan ubah zuu atau nama socket nya, jika masih memaksa dan nama sockets dan index berubah dan berbeda, fitur ini akan error.
