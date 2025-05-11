@@ -10,7 +10,7 @@
   "author": "Zuunotfound",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:pixiel-kiyo/Baileys",
+    "@adiwajshing/baileys": "github:VendettaLovee/OblivionX-Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
